@@ -15,7 +15,7 @@
 🍁 Top Languages:<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashuchn&theme=nightowl&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
-<!-- 👀 Profile Visits:
+👀 Profile Visits:
 ![visitors](https://profile-counter.glitch.me/ashuchn/count.svg?align=center)
- -->
+
  
